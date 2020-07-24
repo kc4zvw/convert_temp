@@ -5,15 +5,9 @@
 # Shell script to convert Fahrenheit to Celsius Temperature or Celsius
 # to Fahrenheit Temperature
 # -------------------------------------------------------------------------
-# Copyright (c) 2005 nixCraft project <http://cyberciti.biz/fb/>
-# This script is licensed under GNU GPL version 2.0 or above
-# -------------------------------------------------------------------------
-# This script is part of nixCraft shell script collection (NSSC)
-# Visit http://bash.cyberciti.biz/ for more information.
-# -------------------------------------------------------------------------
 # Fahrenheit and Celsius Temperature Scales more info:
 # http://en.wikipedia.org/wiki/Temperature_conversion_formulas
-# --------------------------------------------------------------------
+# -------------------------------------------------------------------------
 
 
 function convert_c2f
